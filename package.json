@@ -1,0 +1,19 @@
+{
+  "name": "friedrich-mini-split-remote",
+  "version": "0.1.0",
+  "description": "Infrared codes for Friedrich mini-split ductless heating & cooling wall units",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithkml/friedrich-mini-split-remote.git"
+  },
+  "author": "Keith Lea",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/keithkml/friedrich-mini-split-remote/issues"
+  },
+  "homepage": "https://github.com/keithkml/friedrich-mini-split-remote#readme"
+}
